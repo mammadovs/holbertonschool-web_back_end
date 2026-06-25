@@ -1,0 +1,12 @@
+{
+  "name": "es6-basics",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx babel-node"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.0",
+    "@babel/node": "^7.22.0",
+    "@babel/preset-env": "^7.22.0"
+  }
+}
