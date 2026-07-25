@@ -9,7 +9,7 @@ const countStudents = (dataPath) => {
       }
 
       const fileLines = data.toString().split('\n');
-      const cleanLines = filelines.filter((line) => line.trim() !== '');
+      const cleanLines = fileLines.filter((line) => line.trim() !== '');
 
       if (cleanLines.length <= 1) {
         reject(new Error('Cannot load the database'));
