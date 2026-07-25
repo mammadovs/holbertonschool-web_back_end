@@ -7,4 +7,3 @@ const displayMessage = (text) => {
 };
 
 module.exports = displayMessage;
-
