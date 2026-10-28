@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-This module contains a type-annotated function that returns a multiplier function.
+This module contains a type-annotated
+function that returns a multiplier function.
 """
 
 from typing import Callable
